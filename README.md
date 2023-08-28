@@ -1,4 +1,4 @@
-# Olá 👋🏻 pode me chamar de Sávio ☄️
+# Olá, pode me chamar de Sávio 👋🏻
 
 ⚡ Desde novo sou apaixonado por tecnologia e tudo de bom que ela oferece, trabalhando atualmente com serviços freelancer de segurança da informação e recentemente passei em um processo seletivo desenvolvimento de software foco em Back-end com mais de 30 mil participantes. 
 
