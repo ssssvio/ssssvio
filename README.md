@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="center">
 
 # Hello World <img src="https://em-content.zobj.net/source/apple/354/globe-showing-americas_1f30e.png" width="30" height="30"> 
 
@@ -12,9 +12,9 @@ Since I was young, I have been passionate about technology and all the good thin
 Immense gratitude to iFood & Cubos Academy.
 
 <div align="center">
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%; text-align: left;">
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: left;">
   
 ## Skills
 
@@ -24,23 +24,21 @@ Immense gratitude to iFood & Cubos Academy.
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=LwQEs9KnDgIo&format=png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=20906&format=png" width="36" height="36" alt="Git" /></a>
 
-</div>
-  
-<div style="width: 48%; text-align: left;">
+  </td>
+  <td style="width: 50%; text-align: left;">
 
 ## Study
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="29" height="36" alt="TypeScript" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
-  </div>
-</div>
+  </td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
 
-  ![Snake animation](https://github.com/ssssvio/ssssvio/blob/output/github-contribution-grid-snake.svg)
-  
   [![](https://visitcount.itsvg.in/api?id=ssssvio&icon=5&color=12)](https://visitcount.itsvg.in)
   
 </div>
