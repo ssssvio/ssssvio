@@ -38,8 +38,6 @@ Immense gratitude to iFood & Cubos Academy.
 </div>
 
 <div align="center">
-
-  ![Snake animation](https://github.com/ssssvio/ssssvio/blob/output/github-contribution-grid-snake.svg)
   
   [![](https://visitcount.itsvg.in/api?id=ssssvio&icon=5&color=12)](https://visitcount.itsvg.in)
   
