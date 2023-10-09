@@ -1,20 +1,45 @@
-# Olá, pode me chamar de Sávio 👋🏻
+<div align="center">  
 
-⚡ Desde novo sou apaixonado por tecnologia e tudo de bom que ela oferece, trabalhando atualmente com serviços freelancer de segurança da informação e recentemente passei em um processo seletivo desenvolvimento de software foco em Back-end com mais de 30 mil participantes. 
+# Hello World <img src="https://em-content.zobj.net/source/apple/354/globe-showing-americas_1f30e.png" width="30" height="30"> 
 
-🚀 Gratidão imensa ao iFood & Cubos Academy. 
+</div>
 
-# 🌐 Socials:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A1vio-rezende-954b96234/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dev_savio) 
+My name is Sávio, Back-end software developer <img src="https://em-content.zobj.net/source/apple/354/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="20" height="20"> 
+---------------------------
 
+Since I was young, I have been passionate about technology and all the good things it offers, currently working with freelance information security services and recently passed a selection process for software development focused on Back-end with more than 30 thousand participants. 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+Immense gratitude to iFood & Cubos Academy.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ssssvio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssssvio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%; text-align: left;">
+  
+## Skills
 
-[![](https://visitcount.itsvg.in/api?id=ssssvio&icon=5&color=12)](https://visitcount.itsvg.in)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=108784&format=png" width="39" height="37" alt="JavaScript" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=PZQVBAxaueDJ&format=png" width="36" height="36" alt="Express" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=LwQEs9KnDgIo&format=png" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=20906&format=png" width="36" height="36" alt="Git" /></a>
+
+</div>
+  
+<div style="width: 48%; text-align: left;">
+
+## Study
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="29" height="36" alt="TypeScript" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+
+  </div>
+</div>
+</div>
+
+## aqui em baixo 
+
+![Snake animation](https://github.com/ssssvio/ssssvio/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ssssvio&repo=ssssvio&theme=react)](https://github.com/ssssvio/ssssvio)
 
