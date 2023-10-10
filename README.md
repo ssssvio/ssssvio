@@ -1,11 +1,11 @@
-# Hello World!  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" width="30" height="30"> 
+# Hello World! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" width="30" height="30" style="pointer-events: none;">
 
-My name is Sávio, back-end software developer <img src="https://em-content.zobj.net/source/apple/354/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="20" height="20"> 
+My name is Sávio, back-end software developer <img src="https://em-content.zobj.net/source/apple/354/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="20" height="20" style="pointer-events: none;">
 ---------------------------
 
-<img src="https://em-content.zobj.net/source/apple/354/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png" width="20" height="20"> Since I was young, I have been passionate about technology and all the good things it offers, currently working with freelance information security services and recently passed a selection process for software development focused on Back-end with more than 30 thousand participants. 
+<img src="https://em-content.zobj.net/source/apple/354/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png" width="20" height="20" style="pointer-events: none;"> Since I was young, I have been passionate about technology and all the good things it offers, currently working with freelance information security services and recently passed a selection process for software development focused on Back-end with more than 30 thousand participants. 
 
-<img src="https://em-content.zobj.net/source/apple/354/rocket_1f680.png" width="20" height="20"> Immense gratitude to iFood & Cubos Academy.
+<img src="https://em-content.zobj.net/source/apple/354/rocket_1f680.png" width="20" height="20" style="pointer-events: none;"> Immense gratitude to iFood & Cubos Academy.
 
 ## Skills
 
@@ -19,4 +19,4 @@ My name is Sávio, back-end software developer <img src="https://em-content.zobj
 
 ## Contact me
 
-  [![](https://visitcount.itsvg.in/api?id=ssssvio&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ssssvio&icon=5&color=12)](https://visitcount.itsvg.in)
