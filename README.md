@@ -14,7 +14,7 @@ Immense gratitude to iFood & Cubos Academy.
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=LwQEs9KnDgIo&format=png" width="45" height="45" alt="PostgreSQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=20906&format=png" width="45" height="45" alt="Git" /></a>
 
-## <img src="  https://em-content.zobj.net/source/apple/354/books_1f4da.png" width="25" height="25" style="pointer-events: none;"> Study
+## <img src="https://em-content.zobj.net/source/apple/354/books_1f4da.png" width="25" height="25" style="pointer-events: none;"> Study
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="35" height="40" alt="TypeScript" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="40" alt="MongoDB" /></a>
