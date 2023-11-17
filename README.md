@@ -27,10 +27,6 @@ Immense gratitude to iFood & Cubos Academy.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=20906&format=png" width="45" height="45" alt="Git" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=24895&format=png" width="45" height="45" alt="Git" /></a>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssssvio&bg_color=0d1117&color=5271FF&line=5271FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=ssssvio&icon=5&color=12)](https://visitcount.itsvg.in)
