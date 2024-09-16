@@ -3,7 +3,7 @@
 My name is Sávio <img src="https://em-content.zobj.net/source/apple/354/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png" width="20" height="20" style="pointer-events: none;">, back-end software developer
 ---------------------------
 
- Since I was young, I have been passionate about technology and all the good things it offers, currently working with freelance information security services and recently passed a selection process for software development focused on Back-end with more than 30 thousand participants. 
+ Since I was young, I have been passionate about technology and all the good things it offers. I am currently studying Software Engineering and working with freelance information security services. Recently, I passed a selection process for software development focused on Back-end, competing with more than 30 thousand participants.
 Immense gratitude to iFood & Cubos Academy.
 
 <div align="center">
