@@ -12,14 +12,11 @@ Immense gratitude to iFood & Cubos Academy.
 
 </div>
 
-## Study
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="35" height="40" alt="TypeScript" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="40" alt="MongoDB" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=VLKafOkk3sBX&format=png" width="45" height="40" alt="MongoDB" /></a>
-
 ## Skills
 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="35" height="40" alt="TypeScript" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="40" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=VLKafOkk3sBX&format=png" width="45" height="40" alt="MongoDB" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" width="45" height="45" alt="NodeJS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=108784&format=png" width="45" height="45" alt="JavaScript" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=PZQVBAxaueDJ&format=png" width="45" height="45" alt="Express" /></a>
